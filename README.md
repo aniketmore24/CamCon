@@ -1,2 +1,0 @@
-# CamCon
-Institute Portal
