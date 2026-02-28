@@ -1,0 +1,70 @@
+.notice {
+    background-color: #d5cdcd;
+    border: 3px solid #f2f1f1;
+    margin-top: 30px;
+    border-radius: 20px;
+    box-shadow: 0px 2px 4px rgba(247, 239, 239, 0.1);
+    margin-left: 100px;
+    width: 100%;
+  }
+  
+  .notice-title {
+    color: #002c71;
+    font-size: 24px;
+    font-weight: bold;
+    margin-right: 60px;
+    margin-left: 60px;
+    width: 400px;
+  }
+  
+  .notice-description {
+    color: #444444;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  .notice-date {
+    color: #666666;
+    font-size: 14px;
+    font-style: italic;
+  }
+
+  .delete-button {
+    background-color: rgb(37, 143, 172);
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-bottom: 30px;
+    margin-top: 5px;
+    margin-left: 200px;
+  }
+  
+  .delete-button:hover {
+    background-color: darkred;
+  }
+
+  h1 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, sans-serif;
+    font-size: 2rem;
+    color: #333333;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin: 0;
+    padding: 10px;
+  }
+
+  .notice-board {
+    background-color: #5ccff6;
+    border: 6px solid #fbf8f8;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    margin: 20px auto;
+    width :800px;
+    margin-left: 250px;
+  }

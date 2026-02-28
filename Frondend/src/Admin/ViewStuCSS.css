@@ -1,0 +1,56 @@
+.student-info-table {
+    font-family: Arial, sans-serif;
+    border-collapse: collapse;
+    width: 800px;
+    margin-bottom: 20px;
+    margin-left: 300px;
+  }
+  
+  .student-info-table th,
+  .student-info-table td {
+    text-align: left;
+    padding: 8px;
+  }
+  
+  .student-info-table th {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .student-info-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .student-info-table tr:hover {
+    background-color: #ddd;
+  }
+
+  .tab{
+
+    width: 70%;
+    margin-left: 300px;
+    margin-bottom: 30px;
+
+
+  }
+
+  .del{
+
+    width : 300px;
+    margin-left: 350px;
+  }
+
+  .button {
+    background-color: #bbcfe4;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 3px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-bottom: 20px;
+  }
+  
+  .button:hover {
+    background-color: #a4b6ca;
+  }

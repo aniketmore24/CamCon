@@ -1,0 +1,31 @@
+.feedback-table {
+  padding: 40px;
+  width: 60%;
+  margin-left: 250px;
+}
+
+.feedback-module {
+  margin-bottom: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+th,
+td {
+  padding: 8px;
+  text-align: left;
+  border: 1px solid #ddd;
+}
+
+th {
+  background-color:lightgray;
+}
+
+.head{
+
+  margin-left: 200px;
+}
